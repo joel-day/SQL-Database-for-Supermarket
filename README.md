@@ -5,7 +5,7 @@ SQL &amp; Python
 The pipeline improves the quality and timeliness of business decisions by gathering all relevant information for decision making, in an understandable format, within seconds.
 
 # Data
-Thw data set is small enough to store on a local MySQL server, but complex enough to practice feature transformations, create complex views, and resemble the real-world. The data was originally web scraped by Karanth in 2020 but downloaded from kaggle. The executable, in its current state, is designed to be run on a per instance basis. The schema is static; in other words, the CSV files must adhere to the current structure to be properly ingested.
+The data set is small enough to store on a local MySQL server, but complex enough to practice feature transformations, create complex views, and resemble the real-world. The data was originally web scraped by Karanth in 2020 but downloaded from kaggle. The executable, in its current state, is designed to be run on a per instance basis. The schema is static; in other words, the CSV files must adhere to the current structure to be properly ingested.
 
 ## Supermarket Database EER Diagram
 ![image](https://github.com/joel-day/SQL-Database-for-Supermarket/assets/105340191/e223bfd5-7649-4e37-8b6d-7e03e8eeab29)
