@@ -1,6 +1,9 @@
 # SQL-Database-for-Supermarket
 SQL &amp; Python
 
+# Purpose
+The pipeline improves the quality and timeliness of business decisions by gathering all relevant information for decision making, in an understandable format, within seconds.
+
 # Data
 Thw data set is small enough to store on a local MySQL server, but complex enough to practice feature transformations, create complex views, and resemble the real-world. The data was originally web scraped by Karanth in 2020 but downloaded from kaggle. The executable, in its current state, is designed to be run on a per instance basis. The schema is static; in other words, the CSV files must adhere to the current structure to be properly ingested.
 
