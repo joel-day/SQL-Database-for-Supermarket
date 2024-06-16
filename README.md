@@ -1,4 +1,4 @@
-# SQL-Database-for-Supermarket
+# SQL Database for Fictional Supermarket
 SQL &amp; Python
 
 # Purpose
